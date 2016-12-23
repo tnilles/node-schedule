@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "cron-parser": "^2.2.1",
-    "long-timeout": "0.1.1"
+    "long-timeout": "0.1.1",
+    "moment": "^2.17.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
